@@ -140,7 +140,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/buddhhu?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-gold?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Drek69?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-gold?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
