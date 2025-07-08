@@ -168,7 +168,7 @@
 <div align="center">
 
 > **"Code like your future depends on it — because it does."**  
-> — Amit
+> — Drek
 
 </div>
 
