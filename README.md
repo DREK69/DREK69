@@ -121,7 +121,7 @@
 
 <p align="center">
 <p align="center">
-  <a href="https://github.com/buddhhu">
+  <a href="https://github.com/DREK69">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DREK69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/DREK69">
